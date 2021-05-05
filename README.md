@@ -20,6 +20,7 @@ I also Self publish apps on the Google play store and my two main apps: [Crimson
    ![Java](https://img.shields.io/badge/-Java-eee?style=flat-square&logo=Java&logoColor=007396)
    ![Dart](https://img.shields.io/badge/-Dart-eee?style=flat-square&logo=dart&logoColor=0175C2)
    ![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript)
+   ![C++](https://img.shields.io/badge/-C%2B%2B-eee?style=flat-square&logo=C%2B%2B&logoColor=00599C)
 - Development Platforms : <br />
    ![Android](https://img.shields.io/badge/-Android-eee?style=flat-square&logo=android)
    ![React Native](https://img.shields.io/badge/-React%20Native-eee?style=flat-square&logo=react)
