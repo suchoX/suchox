@@ -39,6 +39,7 @@ I also Self publish apps on the Google play store and my two main apps: [Crimson
 <p align="center">
   <a href="https://www.linkedin.com/in/suchandrim-sarkar-78b6a0b0/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:suchandrim.sarkar@gmail.com"><img alt="Mail" title="Mail" src="https://img.shields.io/badge/-mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://medium.com/@suchandrimsarkar"><img alt="Twitter" title="Medium" src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white"/></a>
   <a href="https://twitter.com/Suchandrim"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://stackoverflow.com/users/2686951/sucho"><img alt="Stack Overflow" title="Stack Overflow" src="https://img.shields.io/badge/-stack%20overflow-F58025?style=for-the-badge&logo=stack%20overflow&logoColor=white"></a>
   <a href="https://www.instagram.com/sucho94/"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
