@@ -8,8 +8,8 @@ I also Self publish apps on the Google play store and my two main apps: [Crimson
 - 💻 I’m currently working as a Technical Lead at [Mutual Mobile](https://mutualmobile.com/)
 - 🌱 I’m learning Flutter, React Native, Jetpack Compose and expanding my horizons on Android Native Development
 - 🎭 Fun Fact: The first app I ever published, [Flumper](https://play.google.com/store/apps/details?id=com.dodo.Flumper) was a more complicated clone of Flappy bird, where I wrote the physics engine by myself. May not look like much, but still very proud of it
-- 👀 I have lost count of the number of unfinished projects I have. I don't mind though, as they were great learning experiences
-- 🎮 I absolutely love Video Games
+- 👀  I have lost count of the number of unfinished projects I have. I don't mind though, as they were great learning experiences
+- 🎮  I absolutely love Video Games
 - 👨‍💻 My friends along with myself established an active programming club in college promoting coding and development which is very active to this day.
 - ⚡ My final year college project was an automatic attendance taking app that made lives of my teachers much easier is still being used to this day
 
