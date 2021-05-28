@@ -11,7 +11,7 @@ I also Self publish apps on the Google play store and my two main apps: [Crimson
 - 👀  I have lost count of the number of unfinished projects I have. I don't mind though, as they were great learning experiences
 - 🎮  I absolutely love Video Games
 - 👨‍💻 My friends along with myself established an active programming club in college promoting coding and development which is very active to this day.
-- ⚡ My final year college project was an automatic attendance taking app that made lives of my teachers much easier is still being used to this day
+- ⚡ My final year college project was an automatic attendance taking app that made lives of my teachers much easier and is still being used
 
 ### ✨ Technologies I have used so far
 
