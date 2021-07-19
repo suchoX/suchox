@@ -13,7 +13,7 @@ I also Self publish apps on the Google play store and my two main apps: [Crimson
 - 👨‍💻 My friends along with myself established an active programming club in college promoting coding and development which is very active to this day.
 - ⚡ My final year college project was an automatic attendance taking app that made lives of my teachers much easier and is still being used
 
-You can check out my github repo, [Playground Android](https://github.com/suchoX/PlaygroundAndroid) where I try and experiment with Android elements and APIs. (Also, makes my github activity look good)
+You can check out my github repos, [Playground Android](https://github.com/suchoX/PlaygroundAndroid) and [Playground ReactNative](https://github.com/suchoX/PlaygroundReactNative) where I try and experiment with Native Android and ReactNative elements and APIs. (Also, makes my github activity look good)
 
 ### ✨ Technologies I have used so far
 
