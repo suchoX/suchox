@@ -1,30 +1,33 @@
 ### Hello there 👋, I am Suchandrim Sarkar
-A Mobile developer based out of India. I consider myself a pretty skilled developer specialising in Native Android Development using Kotlin and I  also work on Flutter and React Native.
+A Full Stack Developer based out of India who loves building, breaking and re-building anything tech.
 
-I also Self publish apps on the Google play store and my two main apps: [Crimson Music Player](https://play.google.com/store/apps/details?id=com.crimson.musicplayer) and [Jade](https://play.google.com/store/apps/details?id=com.crimson.jade) have a combined downloads of close to half a million. I am working on my third app right now.
+I also self publish apps and my two main apps: [Crimson Music Player](https://play.google.com/store/apps/details?id=com.crimson.musicplayer) and [Jade](https://play.google.com/store/apps/details?id=com.crimson.jade) have a combined downloads of close to half a million. I am working on my third app right now.
 
 ### ✨ Quick Facts
 
-- 💻 I’m currently working as a Technical Lead at [Mutual Mobile](https://mutualmobile.com/)
-- 🌱 I’m learning Flutter, React Native, Jetpack Compose and expanding my horizons on Android Native Development
-- 🎭 Fun Fact: The first app I ever published, [Flumper](https://play.google.com/store/apps/details?id=com.dodo.Flumper) was a more complicated clone of Flappy bird, where I wrote the physics engine by myself. May not look like much, but still very proud of it
-- 👀  I have lost count of the number of unfinished projects I have. I don't mind though, as they were great learning experiences
-- 🎮  I absolutely love Video Games
+- 💻 I’m currently working as a Senior Software Engineer at [Myntra](https://www.myntra.com/)
+- 🖱️ Presently, I am working primarily with React, React Native and Go
+- 🌱 I’m learning Flutter, Kotlin MultiPlatform and Jetpack Compose 
+- 🎭 Fun Fact: The first app I ever published, [Flumper](https://apkcombo.com/flumper/com.dodo.Flumper/) was a more complicated clone of Flappy bird, where I wrote the physics engine by myself. May not look like much, but still very proud of it
+- 👀 I have lost count of the number of unfinished projects I have. I don't mind though, as they were great learning experiences
+- 🎮 I absolutely love Video Games
 - 👨‍💻 My friends along with myself established an active programming club in college promoting coding and development which is very active to this day.
 - ⚡ My final year college project was an automatic attendance taking app that made lives of my teachers much easier and is still being used
 
-You can check out my github repos, [Playground Android](https://github.com/suchoX/PlaygroundAndroid) and [Playground ReactNative](https://github.com/suchoX/PlaygroundReactNative) where I try and experiment with Native Android and ReactNative elements and APIs. (Also, makes my github activity look good)
+I am presently building My own website to talk about tech and anything related to it. Stay Tuned!
 
 ### ✨ Technologies I have used so far
 
 - Programming Languages : <br />
+   ![Typescript](https://img.shields.io/badge/-TypeScript-eee?style=flat-square&logo=typescript)
    ![Kotlin](https://img.shields.io/badge/-Kotlin-eee?style=flat-square&logo=kotlin)
+   ![Go](https://img.shields.io/badge/-Go-eee?style=flat-square&logo=go)
    ![Java](https://img.shields.io/badge/-Java-eee?style=flat-square&logo=Java&logoColor=007396)
    ![Dart](https://img.shields.io/badge/-Dart-eee?style=flat-square&logo=dart&logoColor=0175C2)
    ![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript)
-   ![C++](https://img.shields.io/badge/-C%2B%2B-eee?style=flat-square&logo=C%2B%2B&logoColor=00599C)
 - Development Platforms : <br />
    ![Android](https://img.shields.io/badge/-Android-eee?style=flat-square&logo=android)
+   ![React](https://img.shields.io/badge/-React-eee?style=flat-square&logo=react)
    ![React Native](https://img.shields.io/badge/-React%20Native-eee?style=flat-square&logo=react)
    ![Flutter](https://img.shields.io/badge/-Flutter-eee?style=flat-square&logo=flutter&logoColor=02569B)
 - IDEs : <br />
