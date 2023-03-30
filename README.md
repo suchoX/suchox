@@ -16,6 +16,9 @@ I also self publish apps and my two main apps: [Crimson Music Player](https://pl
 
 I am presently building My own website to talk about tech and anything related to it. Stay Tuned!
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suchoX&theme=tokyonight)
+
+
 ### ✨ Technologies I have used so far
 
 - Programming Languages : <br />
