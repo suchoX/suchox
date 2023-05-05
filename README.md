@@ -1,7 +1,7 @@
 ### Hello there 👋, I am Suchandrim Sarkar
 A Full Stack Developer based out of India who loves building, breaking and re-building anything tech.
 
-I write about Tech in my blog [TechItUp](https://techitup.io/) which I have built from scratch using React, Go and MongoDb and has a server/backend driven UI architecture 
+I write about Tech in my blog [TechItUp](https://techitup.io/) which I have built from scratch using React, Go and MongoDb and has a server/backend driven UI architecture.
 
 I also self publish apps and my two main apps: [Crimson Music Player](https://play.google.com/store/apps/details?id=com.crimson.musicplayer) and [Jade](https://play.google.com/store/apps/details?id=com.crimson.jade) have a combined downloads of close to half a million. I am working on my third app right now.
 
