@@ -1,22 +1,20 @@
 ### Hello there 👋, I am Suchandrim Sarkar
 A Full Stack Developer based out of India who loves building, breaking and re-building anything tech.
 
-I write about Tech in my blog [TechItUp](https://techitup.io/) which I have built from scratch using React, Go and MongoDb and has a server/backend driven UI architecture.
+I also self publish apps and my Three main apps: [Oasis Minimalist Launcher](https://play.google.com/store/apps/details?id=com.crimson.oasislauncher), [Crimson Music Player](https://play.google.com/store/apps/details?id=com.crimson.musicplayer) and [Jade](https://play.google.com/store/apps/details?id=com.crimson.jade) have a combined downloads of close to half a million. I am working on my fourth app right now.
 
-I also self publish apps and my two main apps: [Crimson Music Player](https://play.google.com/store/apps/details?id=com.crimson.musicplayer) and [Jade](https://play.google.com/store/apps/details?id=com.crimson.jade) have a combined downloads of close to half a million. I am working on my third app right now.
+I write about Tech in my blog [TechItUp](https://techitup.io/) which I have built from scratch using React, Go and MongoDb and has a server/backend driven UI architecture.
 
 ### ✨ Quick Facts
 
 - 💻 I’m currently working as a Senior Software Engineer at [Myntra](https://www.myntra.com/)
-- 🖱️ Presently, I am working primarily with React, React Native and Go
-- 🌱 I’m learning Flutter, Kotlin MultiPlatform and Jetpack Compose 
+- 🖱️ I am primarily working with React, React Native, Jetpack Compose and Go.
+- 🌱 I am learning Flutter, Kotlin MultiPlatform and Swift UI. 
 - 🎭 Fun Fact: The first app I ever published, [Flumper](https://apkcombo.com/flumper/com.dodo.Flumper/) was a more complicated clone of Flappy bird, where I wrote the physics engine by myself. May not look like much, but still very proud of it
 - 👀 I have lost count of the number of unfinished projects I have. I don't mind though, as they were great learning experiences
 - 🎮 I absolutely love Video Games
 - 👨‍💻 My friends along with myself established an active programming club in college promoting coding and development which is very active to this day.
 - ⚡ My final year college project was an automatic attendance taking app that made lives of my teachers much easier and is still being used
-
-I am presently building My own website to talk about tech and anything related to it. Stay Tuned!
 
 
 ### ✨ Technologies I have used so far
