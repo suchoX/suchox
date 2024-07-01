@@ -1,15 +1,15 @@
 ### Hello there 👋, I am Suchandrim Sarkar
 A Full Stack Developer based out of India who loves building, breaking and re-building anything tech.
 
-I also self publish apps and my Three main apps: [Oasis Minimalist Launcher](https://play.google.com/store/apps/details?id=com.crimson.oasislauncher), [Crimson Music Player](https://play.google.com/store/apps/details?id=com.crimson.musicplayer) and [Jade](https://play.google.com/store/apps/details?id=com.crimson.jade) have a combined downloads of close to half a million. I am working on my fourth app right now.
+I also self publish apps and my Three main apps: [Oasis Minimalist Launcher](https://play.google.com/store/apps/details?id=com.crimson.oasislauncher), [Crimson Music Player](https://play.google.com/store/apps/details?id=com.crimson.musicplayer) and [Jade](https://play.google.com/store/apps/details?id=com.crimson.jade) have a combined downloads of close to a million. I am working on my fourth app right now.
 
 I write about Tech in my blog [TechItUp](https://techitup.io/) which I have built from scratch using React, Go and MongoDb and has a server/backend driven UI architecture.
 
 ### ✨ Quick Facts
 
-- 💻 I’m currently working as a Senior Software Engineer at [Myntra](https://www.myntra.com/)
-- 🖱️ I am primarily working with React, React Native, Jetpack Compose and Go.
-- 🌱 I am learning Flutter, Kotlin MultiPlatform and Swift UI. 
+- 💻 I’m currently working as a Tech Lead at [Myntra](https://www.myntra.com/)
+- 🖱️ I am primarily working with React, React Native, Jetpack Compose, Swift UI and Go.
+- 🌱 I am learning Flutter, Kotlin MultiPlatform. 
 - 🎭 Fun Fact: The first app I ever published, [Flumper](https://apkcombo.com/flumper/com.dodo.Flumper/) was a more complicated clone of Flappy bird, where I wrote the physics engine by myself. May not look like much, but still very proud of it
 - 👀 I have lost count of the number of unfinished projects I have. I don't mind though, as they were great learning experiences
 - 🎮 I absolutely love Video Games
